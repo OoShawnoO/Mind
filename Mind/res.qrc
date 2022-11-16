@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/signal.png</file>
+        <file>res/frame.png</file>
+        <file>allbox.cpp</file>
+        <file>res/hardwaresetting.png</file>
+        <file>res/help.png</file>
+        <file>res/rectangle.png</file>
+        <file>res/shop.png</file>
+        <file>res/update.png</file>
+        <file>res/right.png</file>
+    </qresource>
+</RCC>
